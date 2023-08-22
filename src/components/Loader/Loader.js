@@ -1,5 +1,5 @@
 import css from './Loader.module.css';
-import PropTypes from 'prop-types';
+
 import { ColorRing } from 'react-loader-spinner';
 
 function Loader() {
